@@ -60,6 +60,8 @@ Clone the Module_5_Challenge repository from GitHub:
 
 'git clone https://github.com/jpweldon/Module_5_Challenge.git'
 
+Create an environment (.env) file with your ALPACA_API_KEY and ALPACA_SECRET_KEY in the same folder as financial_planning_tools.ipynb.
+
 Run the financial_planning_tools.ipynb program.
 
 Examine the statistics, charts, and analysis contained within the file. I have included analysis outlining the significance.
